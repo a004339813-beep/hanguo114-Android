@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">Mất kết nối mạng</string>
+    <string name="error_message">Vui lòng kiểm tra mạng và thử lại.</string>
+    <string name="retry">Thử lại</string>
+    <string name="no_app_found">Không tìm thấy ứng dụng để mở</string>
+</resources>

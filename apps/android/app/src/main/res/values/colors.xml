@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 与网页 themeColor 一致，避免状态栏与页面色差 -->
+    <color name="app_background">#F3F5F9</color>
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="brand">#1D5BF0</color>
+    <color name="splash_background">#FFFFFF</color>
+</resources>

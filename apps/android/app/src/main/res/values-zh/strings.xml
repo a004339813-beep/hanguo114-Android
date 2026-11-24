@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_title">网络连接失败</string>
+    <string name="error_message">请检查网络后重试</string>
+    <string name="retry">重新加载</string>
+    <string name="no_app_found">没有找到可以打开的应用</string>
+</resources>

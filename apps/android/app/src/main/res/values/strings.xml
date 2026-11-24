@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- app_name 由 build.gradle.kts 中各站点 flavor 定义 -->
+    <string name="error_title">No connection</string>
+    <string name="error_message">Please check your network and try again.</string>
+    <string name="retry">Retry</string>
+    <string name="no_app_found">No app found to open this</string>
+</resources>
